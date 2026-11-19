@@ -45,7 +45,7 @@ const SITE = {
   about: {
     intro: "A curious mind drawn to stories, content, ideas, creativity, and the world around me.",
     photo: "assets/img/saika-photo.jpg",
-    photoAlt: "Saika Parveen",
+    photoAlt: "Saika",
     paragraphs: [
       "I’m a content management and digital operations professional with more than two years of experience supporting content libraries, editorial workflows, and collaborative teams.",
       "At Nasheedio, I work with a large Muslim-friendly audio library—bringing structure to curation, quality checks, planning, and day-to-day operations. I enjoy making complex work easier for people to find, review, and maintain.",
@@ -97,7 +97,7 @@ const SITE = {
     ],
   },
   education: {
-    //intro: "Currently studying history in Kolkata.",
+    //intro: "Currently studying history in K.",
     items: [
       {
         title: "B.A.(Honours) in History ·",
