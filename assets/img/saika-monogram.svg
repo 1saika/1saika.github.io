@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Saika Parveen monogram</title>
+  <desc id="desc">A warm ivory and dusty rose monogram for Saika Parveen.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f7efec"/>
+      <stop offset="1" stop-color="#ead9d5"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="52" fill="url(#paper)"/>
+  <circle cx="300" cy="270" r="166" fill="#fffaf8" stroke="#d9bbc1" stroke-width="2"/>
+  <path d="M343 193c-16-20-39-30-69-30-47 0-78 26-78 66 0 39 26 55 76 68 46 12 62 21 62 44 0 25-21 41-55 41-31 0-57-12-77-37l-29 26c25 33 61 50 106 50 55 0 91-29 91-75 0-41-24-60-79-74-44-11-59-19-59-39 0-18 17-31 43-31 23 0 41 8 56 24z" fill="#95566a"/>
+  <text x="300" y="513" text-anchor="middle" fill="#716965" font-family="Arial, sans-serif" font-size="20" letter-spacing="5">SAIKA PARVEEN</text>
+</svg>
