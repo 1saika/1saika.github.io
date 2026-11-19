@@ -249,8 +249,8 @@ const SITE = {
   },
   footer: { tagline: "Made with ❤️ by Saika · Inspired by", repo: { label: "GitHub", url: "https://github.com/Christian-Y-Wu/portfolio-starter-kit" }, showCredit: false },
   social: [
-    { icon: "linkedin", label: "LinkedIn", url: "https://www.linkedin.com/in/saikaparveen13/" },
-    { icon: "medium", label: "Medium", url: "https://saika1.medium.com" },
+    { icon: "linkedin", label: "LinkedIn", url: "https://www.linkedin.com/in/1saika/" },
+    { icon: "medium", label: "Medium", url: "https://1saika.medium.com" },
     { icon: "mail", label: "Email", url: "mailto:saika.work13@gmail.com" },
   ],
 };
